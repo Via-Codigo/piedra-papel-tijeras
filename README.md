@@ -1,12 +1,10 @@
 # Piedra Papel Tijeras
 
-Ejercicios para aprender a programar Javascript. 
+*Ejercicios para aprender a programar Javascript.* 
+**Módulo II - Javascript**
+**2018**
 
-Módulo II - Javascript
-
-2018
-
-##Conceptos necesarios: 
+## Conceptos necesarios: 
 
 - Variables
 - Strings
@@ -15,12 +13,12 @@ Módulo II - Javascript
 - alert()
 - Condicionales (if / else)
 
-###Opcionales:
+### Opcionales:
 
 - console.log() 
 - Math.random()
 
-###Caminos para mejorar el código: 
+### Caminos para mejorar el código: 
 
 - Usar funciones
 - Usar comparaciones numéricas que representen los 3 distintos strings
