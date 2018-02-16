@@ -1,2 +1,7 @@
-# interactive-story-example
-Ejemplo de Historia Interactiva - Módulo II - JS
+# Piedra Papel Tijeras
+
+Ejercicios para aprender a programar Javascript. 
+
+Módulo II - Javascript
+
+2018
